@@ -434,6 +434,10 @@ font-size: 16px;
     padding-top: 20px;
     letter-spacing: 1px;
 }
+.postimg{
+	width: 360px;
+	height: 220px;
+}
 .post_content{
 	padding: 30px 20px;
 }
@@ -681,7 +685,12 @@ color: #dfdddd;
     .post {
     width: 100%;
 }
-
+  .postimg{
+	width: 100%;
+  }
+  .menus li:hover a, .menus li.active a {
+    color: #407ca0;
+}
     .uni_countreport {
    height: 400px;
    display: block;
