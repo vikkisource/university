@@ -161,6 +161,8 @@ border: 2px solid transparent;
 	position: absolute;
     top: 200px;
     left: 125px;
+	z-index: 100;
+	
 }
 .ban_heading{
 	letter-spacing: 2px;
@@ -216,7 +218,7 @@ border: 2px solid transparent;
 
     font-weight: bold;
     line-height: 20px;
-    letter-spacing: 1px;s
+    letter-spacing: 1px;
  }
 
  .ban_Childbox{
@@ -521,7 +523,7 @@ padding-top: 45px;
 .fo_subcribe input{
 	    background: transparent;
     border: 1px solid white;
-    color: #;
+
     color: #626262;
     width: 300px;
     padding-left: 30px;
